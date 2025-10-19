@@ -64,9 +64,9 @@ This represents a **paradigm shift** from theoretical analysis to practical auto
 ---
 
 ## 📝 Citation
-Proposed Idea Based on the Paper of Quantum Entanglement in Neural Network States  
-**Shirmohammad Tavangari**, Advisor: Prof. Jayakumar Rajadas  
-Stanford University School of Medicine, August 20, 2025  
+This paper has been submitted to Nature Computational Science. 
+**Shirmohammad Tavangari**, Advisor: **Prof. Jayakumar Rajadas**  
+**Stanford University School of Medicine**, OCT 20, 2025  
 
 ---
 
